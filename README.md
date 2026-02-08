@@ -1,24 +1,10 @@
 <div align="center">
   <!-- Dynamic Typing Title -->
   <h1 align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=500&height=55&lines=Hi!+I'm+Thilanka+Yasodhana+Rathnayaka+" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=500&height=55&lines=Hi!+👋+I'm+Thilanka+Yasodhana+Rathnayaka+" alt="Typing SVG" />
   </h1>
 
-  <!-- Glow Effect Badges -->
-  <p align="center">
-  <!-- Full Stack Developer -->
-  <img src="https://img.shields.io/badge/Full_Stack-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Full Stack" />
-  
-  <!-- Content Creator -->
-  <img src="https://img.shields.io/badge/Content_Creator-6A0DAD?style=for-the-badge&logo=instagram&logoColor=white" alt="Content Creator" />
-  
-  <!-- Chess Enthusiast -->
-  <img src="https://img.shields.io/badge/Chess_Enthusiast-000000?style=for-the-badge&logo=chess.com&logoColor=white" alt="Chess Enthusiast" />
-  
-  <!-- Cake Addict -->
- <img src="https://img.shields.io/badge/🍰_Cake_Lover-FFA2D2?style=for-the-badge&logoColor=white" />
-</p>
-
+ 
   <!-- Location with Pin -->
   <!-- Location with Pin -->
 <p align="center">
