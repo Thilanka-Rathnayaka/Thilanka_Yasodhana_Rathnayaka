@@ -12,7 +12,7 @@
   <!-- Location with Pin -->
   <!-- Location with Pin -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Alawwa,%20Sri%20Lanka-0D1117?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Location-Alawwa,%20NWP,%20Sri%20Lanka-0D1117?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
 
   <!-- Animated Divider -->
