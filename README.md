@@ -19,7 +19,7 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 <br><br>
  <!-- Description -->
-  <p><em>security is a cultural, proactive, and essential business requirement rather than just an IT function.</em></p>
+  <p><em> Security is a cultural, proactive, and essential business requirement rather than just an IT function.</em></p>
   <!-- GIF -->
   <p align="center">
     <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDhicmUwYjJnNWZmZWdud2llaXQ0MW4zMGl2OHFpc3gzYmNwY3c3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RDZo7znAdn2u7sAcWH/giphy.gif" />
@@ -91,7 +91,7 @@ print(r"""
 ## 💻 Featured Projects
 ### ⚖️ Ministry of Justice  -  Cloud Infrastructure
 <br>
-This project represents the AWS cloud infrastructure design and implementation for a Ministry of Justice (MOJ) web application and database system.<br/>
+## This project represents the AWS cloud infrastructure design and implementation for a Ministry of Justice (MOJ) web application and database system.<br/>
 <br>
 
 🔐 Key Objectives
@@ -105,7 +105,7 @@ This project represents the AWS cloud infrastructure design and implementation f
 🔹Scalable cloud foundation
 
 <br>
-🧩 My Role <br/>
+🧩 My Role <br/><br/>
 
 🔹AWS infrastructure design and planning
 
@@ -116,11 +116,51 @@ This project represents the AWS cloud infrastructure design and implementation f
 🔹Implementation oversight and validation
 <br/>
 
+### 🪟 Microsoft 365 Tenant Administration  -  Playpen Montessori
 
-### 💊 DocPulse  
-> Healthcare management system with receipt analytics and medicine suggestions.
-<!-- Divider -->
-  <hr style="width:60%; border: 0.5px solid #ccc;" />
+## Serving as the Microsoft 365 Tenant Administrator for Playpen Montessori, managing and supporting a cloud-based productivity and collaboration environment for academic and administrative users.
+## The tenant is structured to support secure communication, document collaboration, and identity management while maintaining licensing efficiency and compliance.
+
+🔐 Key Responsibilities & Scope:
+
+🔹Full Microsoft 365 Tenant Administration
+
+🔹Managed licensing for:
+
+     🔹100 × Microsoft 365 A1 licenses
+
+     🔹20 × Microsoft 365 A3 licenses
+
+🔹User lifecycle management (create, modify, disable accounts)
+
+🔹Role-based access control using Microsoft Entra ID (Azure AD)
+
+🔹Email and collaboration management using:
+
+    🔹Outlook
+
+    🔹Microsoft Teams
+
+    🔹OneDrive
+
+    🔹SharePoint
+
+🔹Security and compliance configuration aligned with educational requirements
+
+🔹Coordinated domain and DNS verification with external DNS providers
+
+🔹Provided administrative support and issue resolution for end users
+
+🧑‍💼 My Role
+
+🔹Microsoft 365 Tenant Administrator
+
+🔹License and user management
+
+🔹Security and access control enforcement
+
+🔹End-user support and tenant optimization
+
   <br>
   
 ## 📊 GitHub Analytics
