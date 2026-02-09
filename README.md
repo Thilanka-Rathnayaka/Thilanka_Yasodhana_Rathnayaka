@@ -19,7 +19,7 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 <br><br>
  <!-- Description -->
-  <p><em>Designing tomorrow’s digital experiences with elegant code and relentless curiosity. Where creativity meets engineering precision.</em></p>
+  <p><em>security is a cultural, proactive, and essential business requirement rather than just an IT function.</em></p>
   <!-- GIF -->
   <p align="center">
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnY3cnA1ZG40OHplNmM4OHhlemdwd3gwYjdneGU2ZDJwYXV1a3ZieSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" />
@@ -34,14 +34,14 @@
   class Nethmini:
       def __init__(self):
           self.name = "Thilanka Yasodhana Rathnayaka"
-          self.role = "Full-Stack Developer"
+          self.role = "Senior Technical Officer [IT,Networks & Cybersecurity]"
           self.skills = {
-              "Frontend": ["React", "Next.js", "Flutter"],
-              "Backend": ["Node.js", "Python", "Firebase"],
-              "Design": ["Figma", "Adobe XD", "UI/UX"]
+              "Cloud & virtualization": ["AWS", "Azure", "Google"],
+              "Cybersecurity": ["Firewall", "EDR/XDR", "Identify Security Vulnerabilities"],
+              "Networking": ["TCP/IP, DNS, DHCP", "VPN", "Router, Switch Configuration"]
           }
-          self.hobbies = ["🏊‍♀️ swimming","🪴 Gardening","💃 Dancing", "🎨 Drawing", "🎭 Acting", "👩‍🍳 cooking"]
-          self.quote = "Turning cake into code since 2022"
+          self.hobbies = ["🎮 Video Games", "🎬 Movies ","🏊‍♀️ swimming", "👩‍🍳 cooking","🧳 Travel"]
+          self.quote = "Passwords are like underwear: don't let people see it, change it very often, and you shouldn't share it with strangers." — Chris Pirillo
       
       def say_hello(self):
           print("Let's build something amazing together!")
