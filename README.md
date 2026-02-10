@@ -69,20 +69,29 @@ print(r"""
 ## 🛠️ Tech Arsenal
 <div align="center">
   
-**Frontend & Backend**  
+**Cloud Platforms**  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,html,css,tailwind,materialui,express,figma&perline=8" alt="Frontend/Backend" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure"/>
 </p>
 
-**Databases & Tools**  
+**Cybersecurity Tools**  
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=,mongodb,mysql,postman,git,github,vscode&perline=7" alt="Databases/Tools" />
+  <img src="https://simpleicons.org/icons/junipernetworks.svg" width="50" height="50" /> <img src="https://simpleicons.org/icons/fortinet.svg" width="50" height="50" />
+
+</p>
+
+**Operating Systems**  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows,linux,apple,debian,kali" alt="OS"/> 
 </p>
 
 **Languages & More**  
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,py,php,java" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=cpp,py,php,dotnet,html,css" alt="Languages" />
 </p>
 </div>
 <!-- Divider -->
