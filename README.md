@@ -197,13 +197,25 @@ This achievement highlights a strong foundation in **IT infrastructure, hardware
 
   <hr style="width:60%; border: 0.5px solid #ccc;" />
   <br>
-  
+### 🌟 Award – “Upcoming Branch 2017”  
+
+**E W Information Systems Ltd (EWIS) | Kurunegala Branch**
+
+Received the **“Upcoming Branch 2017”** award from **E W Information Systems Ltd (EWIS)** in recognition of key contributions to the growth and successful establishment of the **Kurunegala branch**.
+
+**Highlights:**
+- 🏢 Supported technical and operational setup  
+- 🤝 Strong collaboration with internal teams  
+- 📈 Contributed to branch performance and expansion  
+- 🎯 Demonstrated initiative in a growing organization  
+
+
 ## 🤝  Connect ME
 
 
 <p align="center" style="white-space: nowrap; overflow-x: auto;">
   <a href="https://www.linkedin.com/in/thilanka-yasodhana-rathnayaka-156647131/?originalSubdomain=lk"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
-  <a href="thilankayasodhana@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a> 
+  <a href="mailto:thilankayasodhana@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a> 
  </p>
  <br>
  
